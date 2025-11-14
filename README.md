@@ -87,7 +87,7 @@ Berikut adalah link untuk mengunduh aplikasi InfluenceHub: [InfluenceHub App](li
 |---------------------------|------------------------------------------------|
 | Raihan Harits Fadhillah   | [LinkedIn](https://www.linkedin.com/in/raihan-harits/)             |
 | Ibnu Afif Kusumahadi        | [LinkedIn](https://www.linkedin.com/in/ibnu-afif-kusumahadi/)            |
-| Aryo Haris Wirakusuma        | [LinkedIn](https://www.linkedin.com/in/aryo-haris-wirakusuma-abbb27200/)               |
+| Aryo Haris Wirakusuma        | [LinkedIn](https://www.linkedin.com/in/ahwirakusuma/)               |
 | Agam Sufiandi     | [LinkedIn](https://www.linkedin.com/in/muhammad-zaki-hamdani/)                  |
 | Firman Afatur Ikhsan        | [LinkedIn](https://www.linkedin.com/in/firman-afatur-ikhsan/)                 |
 | Ni Kadek Srimanik             | [LinkedIn](https://www.linkedin.com/in/srimanik/)               |
