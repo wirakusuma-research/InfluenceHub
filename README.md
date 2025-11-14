@@ -16,7 +16,7 @@
 3. **Aryo Haris Wirakusuma**
    - ID: M010BSY0994
    - Role: Machine Learning
-   - Universitas: Universitas Bengkulu
+   - Universitas: Universitas Indonesia
 
 4. **Agam Sufiandi**
    - ID:  C211BSY4369
